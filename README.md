@@ -1,3 +1,4 @@
+
 DESCRIPTION
 This repository contains the different stages in building a clone of the Airbnb website.
 The concept of AirBnB revolves around a peer-to-peer online marketplace that connects inndividuals who want to rent out their properties or spare rooms with travelers seeking accomodations. instead of traditional hotels or resorts, AirBnB offers a platform where hosts can list their properties, including apartments, houses, villas, or even unique spaces like tree houses or yurls.
@@ -20,5 +21,6 @@ AUTHOR
 This foleder contains the perons that carried the work in this repository:
 Okwori Patience
 Damian Oguche
+ 
 
 
