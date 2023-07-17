@@ -1,13 +1,15 @@
 #!/usr/bin/python3
 """
-This is an Amenity class Module
+Module for Amenity class
 """
-from models.base_model import Basemodel
+from models.base_model import BaseModel
+
 
 class Amenity(BaseModel):
-    """
-    Inherits from BaseModel
-    Public class attribute:
-        name: (str)
+    """Custom amenity class
+
+    Attributes:
+        name(str): amenity name
+
     """
     name = ""
